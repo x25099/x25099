@@ -1,8 +1,6 @@
 # sobre mim
 
-
-- 👋 Hi, I’m @x25099
+- 👋 Olá, eu sou @x25099
 - Meu email de contato é tvsdosul2@gmail.com
-- 👀 I’m interested in  aprender coisas novas:robótica, programação, linguagens(inglês, espanhol, russo, etc...)
-- 🌱 I’m currently learning: programação  e ingl
-- 
+- 👀 eu estou interessao em aprender coisas novas como:robótica, programação, linguagens(inglês, espanhol, russo, etc...)
+- 🌱 Eu estou aprendendo: programação e inglês
